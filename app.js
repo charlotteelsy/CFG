@@ -1,0 +1,1 @@
+object.onsubmit = function(){myScript};
